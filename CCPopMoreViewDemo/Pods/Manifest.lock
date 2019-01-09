@@ -1,0 +1,24 @@
+PODS:
+  - CCPopMoreView (0.0.1)
+  - Masonry (1.1.0)
+  - SDWebImage (4.3.3):
+    - SDWebImage/Core (= 4.3.3)
+  - SDWebImage/Core (4.3.3)
+
+DEPENDENCIES:
+  - CCPopMoreView (from `../`)
+  - Masonry
+  - SDWebImage (~> 4.3.2)
+
+EXTERNAL SOURCES:
+  CCPopMoreView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  CCPopMoreView: 67b233a94ad213d606394ac4fe6b594ec1e4ea99
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  SDWebImage: de4d90b5bff3571eae7bd16202b1f43135409fa5
+
+PODFILE CHECKSUM: 7e1887cf23f6e7e57ca651585683ad8ac8b20c4d
+
+COCOAPODS: 1.4.0

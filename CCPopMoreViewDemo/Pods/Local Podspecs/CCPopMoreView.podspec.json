@@ -1,0 +1,26 @@
+{
+  "name": "CCPopMoreView",
+  "version": "0.0.1",
+  "summary": "Pop-up more interface controls.",
+  "description": "Pop-up more interface controls,仿新浪弹出,支持分页展示",
+  "homepage": "https://github.com/bigBingC/CCPopMoreView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "崔冰": "https://github.com/bigBingC"
+  },
+  "platforms": {
+    "ios": "6.0"
+  },
+  "source": {
+    "git": "https://github.com/bigBingC/CCPopMoreView.git",
+    "tag": "0.0.1"
+  },
+  "source_files": [
+    "Class",
+    "Class/**/*.{h,m}"
+  ],
+  "exclude_files": "Class/Exclude"
+}
