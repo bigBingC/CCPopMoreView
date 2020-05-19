@@ -35,7 +35,7 @@
     for (int i = 0; i < 8; i ++) {
         CCPopMoreViewModel *model = [CCPopMoreViewModel new];
         model.title = [NSString stringWithFormat:@"测试%@",@(i)];
-        model.iconUrl = @"https://public.danke.com.cn/public-20181127-FsSd659_PO-JlW0q0uquwgBhy0RA";
+        model.iconUrl = @"";
         [moreArray addObject:model];
     }
     
